@@ -24,7 +24,7 @@
 🚀 **Languages and Tools:**  
 
 <p align="center">
-  <a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width="40" height="40"/></a>
+  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
   <a href="https://www.cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>
@@ -58,5 +58,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulmoiz8895/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:abdulmoiz8895@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40"/></a>
 </p>
