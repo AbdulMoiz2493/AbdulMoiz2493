@@ -13,9 +13,9 @@
 
 💬 Ask me about **MERN Stack, Figma, Software Quality Assurance, and Project Management**  
 
-📧 How to reach me: [Email](mailto:abdulmoiz8895@gmail.com)  
+📧 How to reach me: [abdulmoiz8895@gmail.com](mailto:abdulmoiz8895@gmail.com)  
 
-📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/abdulmoiz8895/)  
+📄 Know about my experiences on [https://www.linkedin.com/in/abdulmoiz8895/](https://www.linkedin.com/in/abdulmoiz8895/)  
 
 ⚡ **Fun fact:** I turn coffee into code, but sometimes it’s just bugs! 😅  
 
@@ -25,9 +25,9 @@
 
 <p align="center">
   <a href="https://www.mongodb.com/docs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
   <a href="https://nodejs.org/en/docs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
   <a href="https://reactjs.org/docs/getting-started.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
+  <a href="https://nextjs.org/docs"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
   <a href="https://www.cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
