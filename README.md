@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi 👋, I'm Abdul Moiz  
-### Software Engineer | MERN Stack Developer  
+### Software Engineer | MERN Stack Developer 
 
 </div>
 
