@@ -59,9 +59,7 @@
   <a href="https://github.com/AbdulMoiz2493" target="_blank">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulMoiz2493&show_icons=true&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&border_color=7B8FA1&ring_color=7B8FA1&hide_rank=true&card_width=495" />
   </a>
-  <a href="https://github.com/AbdulMoiz2493" target="_blank">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMoiz2493&theme=dark&background=0D1117&ring=7B8FA1&fire=7B8FA1&currStreakLabel=7B8FA1&sideLabels=7B8FA1&dates=7B8FA1&stroke=7B8FA1&border=7B8FA1&card_width=495" />
-  </a>
+  
 </div>
 </p>
 
