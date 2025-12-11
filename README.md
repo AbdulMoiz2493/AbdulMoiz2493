@@ -54,14 +54,7 @@
 
 
 📊 **GitHub Stats:**  
-<p align="center">
- <div align="center" style="margin: 10px 0; display: flex; justify-content: center; gap: 0;">
-  <a href="https://github.com/AbdulMoiz2493" target="_blank">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulMoiz2493&show_icons=true&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&border_color=7B8FA1&ring_color=7B8FA1&hide_rank=true&card_width=495" />
-  </a>
-  
-</div>
-</p>
+
 
 <!-- Activity Graph -->
 <div align="center" style="margin: 10px 0;">
