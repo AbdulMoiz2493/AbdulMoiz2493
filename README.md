@@ -10,7 +10,7 @@
       Making stuff with code
     </p>
     <p style="font-family: Fira Code, monospace; font-size: 14px; color: #7B8FA1; margin: 10px 0;">
-    🌐 <strong>Portfolio:</strong> <a href="https://abdul-moiz.tech" style="color: #5FA8D3;">abdul-moiz.tech</a>
+    🌐 <strong>Portfolio:</strong> <a href="https://abdulmoiz-webfolio.vercel.app/" style="color: #5FA8D3;">abdul-moiz.tech</a>
   </p>
   </div>
 
